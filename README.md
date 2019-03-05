@@ -1,2 +1,2 @@
-# School-C-Projects
+# School-C++-Projects
 School projects from South Tech
