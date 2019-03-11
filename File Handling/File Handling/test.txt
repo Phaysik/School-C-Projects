@@ -1,0 +1,2 @@
+This is a test record for the file.
+This is the second record written to the file.
